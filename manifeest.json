@@ -1,0 +1,8 @@
+{
+  "name": "Arabic Locale Plugin",
+  "version": "1.0.0",
+  "description": "Plugin to change Discord interface language to Arabic.",
+  "main": "index.js",
+  "author": "Your Name",
+  "license": "MIT"
+}
