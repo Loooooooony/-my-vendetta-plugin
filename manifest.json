@@ -1,0 +1,6 @@
+{
+  "name": "Arabic Language Plugin",
+  "description": "A plugin to change Discord language to Arabic.",
+  "version": "1.0.0",
+  "main": "index.js"
+}
